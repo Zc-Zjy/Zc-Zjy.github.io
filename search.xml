@@ -1751,7 +1751,12 @@
 <br/>
 
 
-<h1 id="八、Git提交规范（fix、feat等字段含义）"><a href="#八、Git提交规范（fix、feat等字段含义）" class="headerlink" title="八、Git提交规范（fix、feat等字段含义）"></a>八、Git提交规范（fix、feat等字段含义）</h1><p>feat: 新功能（feature）<br>fix: 修补bug<br>docs: 文档（documentation）<br>style: 格式（不影响代码运行的变动）<br>refactor: 重构（即不是新增功能，也不是修改bug的代码变动）<br>chore: 构建过程或辅助工具的变动<br>revert: 撤销，版本回退<br>perf: 性能优化<br>test：测试<br>improvement: 改进<br>build: 打包<br>ci: 持续集成</p>
+<h1 id="八、Git提交规范（fix、feat等字段含义）"><a href="#八、Git提交规范（fix、feat等字段含义）" class="headerlink" title="八、Git提交规范（fix、feat等字段含义）"></a>八、Git提交规范（fix、feat等字段含义）</h1><p>feat: 新功能（feature）<br>fix: 修补bug<br>docs: 文档（documentation）<br>style: 格式（不影响代码运行的变动）<br>refactor: 重构（即不是新增功能，也不是修改bug的代码变动）<br>chore: 构建过程或辅助工具的变动<br>revert: 撤销，版本回退<br>perf: 性能优化<br>test：测试<br>improvement: 改进<br>build: 打包<br>ci: 持续集成<br>idea上下载插件：<code>Git Commit Message Helper</code>，使用如下：  </p>
+<img src="/2023/09/25/Git/9.jpg" class="">  
+<p>（1）作用模块：一般是修改的什么模块或者是什么功能，如【xx模块】&#x2F;【xx功能】；<br>（2）简介描述：一般是5-10各自简单描述做的任务，如【xx模块加入消息队列】。<br>完整的示例：  </p>
+<img src="/2023/09/25/Git/10.jpg" class="">
+<img src="/2023/09/25/Git/11.jpg" class="">  
+
 <br/>
 
 <hr>
